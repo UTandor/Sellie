@@ -1,8 +1,3 @@
-Sellie - Developer Documentation
-Dear [Boss's Name],
-
-Greetings and welcome to the Sellie AI Lead Management System - a progressive platform engineered to transform lead management using advanced artificial intelligence. This comprehensive guide is intended to direct our esteemed development team through the fundamental features and technical aspects of the Sellie system.
-
 ## Project Overview
 Sellie, is made with React, TypeScript, and Tailwind CSS which is bundled with Vite. Its core functionalities include authentication, a dynamic dashboard, real-time client chat functionality, an AI chatbot (which is going to use GPT-3.5 in the future), and a tabular representation of a client's leads.
 
