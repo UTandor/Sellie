@@ -9,6 +9,10 @@ module.exports = {
   ],
   prefix: "",
   theme: {
+    fontFamily: {
+      'secondary': ['Zen Kaku Gothic Antique'],
+      'mono': ['Space Mono']
+    },
     container: {
       center: true,
       padding: "2rem",
